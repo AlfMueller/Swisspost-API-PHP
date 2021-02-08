@@ -2,10 +2,10 @@
 
 /****************************************************************
 *                                                               *
-* Democode für API Swisspost (PHP V7.4)							*
+* Democode für API Swisspost (PHP V7.4)				*
 *                                                               *
-* Author: Alf Müller - bastelgarage.ch - purecrea gmbh			*
-* Date: 8.2.2021												*
+* Author: Alf Müller - bastelgarage.ch - purecrea gmbh		*
+* Date: 8.2.2021						*
 *                                                               *
 *****************************************************************/
 
