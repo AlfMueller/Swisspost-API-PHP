@@ -5,6 +5,7 @@ Manual here: https://developer.post.ch/en/digital-commerce-api
 Call to https://wedec.post.ch
  
 Change 2 Parameter for use:
+
 $client_secret = 'TEST_XXXXXXXXX';
 
 $client_id = 'TEST_XXXXXXXXXXX';
