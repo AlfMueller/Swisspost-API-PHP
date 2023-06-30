@@ -6,4 +6,7 @@
  *
  * To use this document, replace the "XXXXX" placeholders with your actual client ID and client secret,
  * and then create an instance of the SwissPostAPI class to generate the barcode label.
- *
+
+
+ ZPL file test online: 
+ http://labelary.com/viewer.html (100x150mm 300dpi)
