@@ -98,7 +98,7 @@ class SwissPostAPI {
           CURLOPT_CUSTOMREQUEST => 'POST',
           CURLOPT_POSTFIELDS =>'{
             "language": "DE",
-            "frankingLicense": "60125922",
+            "frankingLicense": "xxxxxxxxx", // your Licence here
             "ppFranking": false,
             "customer": {
                 "name1": "Purecrea GmbH",
